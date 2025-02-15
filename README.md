@@ -1,8 +1,5 @@
- _   __               _        ____   ____   ____ 
-| | / /              | |      / ___| / ___| / ___|
-| |/ / _ __ _   _ ___| |__   / /___ / /___ / /___ 
-|    \| '__| | | / __| '_ \  | ___ \| ___ \| ___ \
-| |\  \ |  | |_| \__ \ | | | | \_/ || \_/ || \_/ |
-\_| \_/_|   \__,_|___/_| |_| \_____/\_____/\_____/
-
-linkedin.com/in/jeremy-mcdonell-34628b192
+Greetings
+# Jeremy McDonell (Krush)
+### Developer & Professional
+🌐 [Personal Website](https://jeremy-mcdonell.pages.dev/)  
+💼 [LinkedIn Profile](https://linkedin.com/in/jeremy-mcdonell-34628b192)
